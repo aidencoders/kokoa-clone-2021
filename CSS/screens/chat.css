@@ -172,6 +172,7 @@
 .reply button {
   transition: opacity 0.3s ease-in-out;
 }
+
 .reply:focus-within .reply__column:first-child,
 .reply:focus-within .fa-smile-wink,
 .reply:focus-within button {
